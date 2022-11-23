@@ -1,0 +1,21 @@
+.container {
+  padding: 1rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 12rem;
+  height: 12rem;
+}
+
+.imageWrapper {
+  border-radius: 9999px;
+  overflow: hidden;
+  object-fit: cover;
+}
